@@ -1,0 +1,22 @@
+{
+  "name": "sleitstein-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "sleitstein"
+  ],
+  "description": "a simple element rotate library",
+  "main": "rotate.js",
+  "moduleType": [],
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
